@@ -108,7 +108,7 @@ Java Programming Language
 
 ---
 
-# ✅ Learning Outcomes
+# Learning Outcomes
 
 After completing this assignment, students will be able to:
 
